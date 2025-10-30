@@ -1,4 +1,4 @@
-📘 AI Code Reviewer
+📘 AI Code Reviewer: ai-powered-code-reviewer-i2jd.vercel.app
 
 An AI-powered Code Review Assistant built with React, Express, and Gemini API, designed to automatically review code snippets for potential issues, explain them clearly, and suggest fixes — all in real time.
 
